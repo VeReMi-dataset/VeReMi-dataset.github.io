@@ -15,6 +15,12 @@ VeReMi consists of three different density levels, five different attacks, and t
 The code and configuration files that are the input of VEINS are available in [a separate repository](https://github.com/VeReMi-dataset/veins).
 We also provide a [popper](https://falsifiable.us)-like repository that contains all the scripts we used to generate the dataset (see below).
 
+### File structure
+
+Each simulation log contains a ground truth file for every message and a set of message logs for every vehicle that received messages.
+The file name of a message log identifies the receiver by vehicle number and OMNeT++ module number, e.g., `JSONlog-0-7-A0.json` refers to the `0`th vehicle with OMNeT++ module ID `7`. The latter is the number also used to identify the sender as such in any reception log and the ground truth file. `A0` refers to the fact that this vehicle is not an attacker (refer to the paper for a discussion of the attacks, or check out the source code below).
+
+
 ## Accessing &amp; Using VeReMi
 To use VeReMi, or parts of the dataset, clone the corresponding repository, which is also [on github](https://github.com/VeReMi-dataset/VeReMi).
 The repository uses [git-lfs](https://git-lfs.github.com/) to store the actual message logs, because their size exceeds the amounts suitable for git.
