@@ -8,11 +8,11 @@ VeReMi is part of a recently accepted paper, submitted to the [SecureComm](http:
 
 ## Overview
 
-VeReMi is a **simulated** dataset, generated using [LuST](https://github.com/lcodeca/LuSTScenario) (Version 2) and [VEINS](http://veins.car2x.org/) (with modifications, based on Version 4.6).
+VeReMi is a **simulated** dataset, generated using [LuST](https://github.com/lcodeca/LuSTScenario) (Version 2) and [VEINS](http://veins.car2x.org/) (with [modifications](https://github.com/VeReMi-dataset/veins/tree/securecomm2018), based on Version 4.6).
 It consists of message logs per vehicle, containing both GPS data (labeled as `type=2`) about the local vehicle and BSM messages (labeled as `type=3`) received from other vehicles though DSRC.
 It has two primary purposes: it serves as a baseline to assess how misbehavior detection mechanisms operate on a city scale, and it saves you a lot of computational power typically required to run VEINS sufficiently often.
 VeReMi consists of three different density levels, five different attacks, and three different attacker densities.
-The code and configuration files that are the input of VEINS are available in [a separate repository](https://github.com/VeReMi-dataset/veins).
+The code and configuration files that are the input of VEINS are available in [a separate repository](https://github.com/VeReMi-dataset/veins/tree/securecomm2018) on the `securecomm2018` branch.
 We also provide a [popper](https://falsifiable.us)-like repository that contains all the scripts we used to generate the dataset (see below).
 
 ### File structure
