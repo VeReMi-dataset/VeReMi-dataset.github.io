@@ -23,7 +23,7 @@ The file name of a message log identifies the receiver by vehicle number and OMN
 
 ## Accessing &amp; Using VeReMi
 To use VeReMi, or parts of the dataset, clone the corresponding repository, which is also [on github](https://github.com/VeReMi-dataset/VeReMi).
-The repository uses [git-lfs](https://git-lfs.github.com/) to store the actual message logs, because their size exceeds the amounts suitable for git.
+~~The repository uses [git-lfs](https://git-lfs.github.com/) to store the actual message logs, because their size exceeds the amounts suitable for git.~~ Due to Github storage limitations, we're currently hosting the dataset as a release [here](https://github.com/VeReMi-dataset/VeReMi/releases). We're thinking about a self-hosted repository with git-lfs to enable contributions again, but for now please download the dataset from the public release and write Rens if you wish to contribute.
 
 ## Reproducing the Dataset
 
