@@ -15,66 +15,66 @@
   },"2": {
     "doc": "Overview",
     "title": " Datasets",
-    "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. ",
+    "content": "Here will be more text later. ",
     "url": "/#-datasets",
     
     "relUrl": "/#-datasets"
   },"3": {
     "doc": "Overview",
-    "title": "TODO",
-    "content": "Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. ",
-    "url": "/#todo",
-    
-    "relUrl": "/#todo"
-  },"4": {
-    "doc": "Overview",
-    "title": "Cite The Latest Dataset Version",
+    "title": "Cite The Latest Dataset Version (v3)",
     "content": "@inproceedings{Hermann2026vereminextgen, author = {Hermann, Artur and Remmers, Jan Niklas and Eisermann, Dennis and Erb, Benjamin and Kargl, Frank}, booktitle = {2026 {IEEE} {Vehicular} {Networking} {Conference} ({VNC})}, date = {2026-06}, location = {Montreal, Canada}, title = {VeReMi {NextGen}: A {Dataset} for {Evaluating} {Misbehavior} {Detection} {Systems} in {VANETs}}, } . ",
-    "url": "/#cite-the-latest-dataset-version",
+    "url": "/#cite-the-latest-dataset-version-v3",
     
-    "relUrl": "/#cite-the-latest-dataset-version"
-  },"5": {
+    "relUrl": "/#cite-the-latest-dataset-version-v3"
+  },"4": {
     "doc": "Overview",
     "title": "Overview",
     "content": " ",
     "url": "/",
     
     "relUrl": "/"
-  },"6": {
+  },"5": {
     "doc": "VeReMi Extension (2020)",
-    "title": " Extension",
+    "title": " Extension (v2)",
     "content": " ",
-    "url": "/veremi-extension#-extension",
+    "url": "/veremi-extension#-extension-v2",
     
-    "relUrl": "/veremi-extension#-extension"
-  },"7": {
+    "relUrl": "/veremi-extension#-extension-v2"
+  },"6": {
     "doc": "VeReMi Extension (2020)",
     "title": "Cite This Work",
     "content": "@inproceedings{02492739, title = {VeReMi Extension: A Dataset for Comparable Evaluation of Misbehavior Detection in VANETs}, author={J. {Kamel} and M. {Wolf} and R. W. {van Der Heijden} and A. {Kaiser} and P. {Urien} and F. {Kargl}}, booktitle = {2020 IEEE International Conference on Communications (ICC)}, address = {Dublin, Ireland}, year = {2020}, month = {Jun} } . ",
     "url": "/veremi-extension#cite-this-work",
     
     "relUrl": "/veremi-extension#cite-this-work"
-  },"8": {
+  },"7": {
     "doc": "VeReMi Extension (2020)",
     "title": "VeReMi Extension (2020)",
     "content": " ",
     "url": "/veremi-extension",
     
     "relUrl": "/veremi-extension"
-  },"9": {
+  },"8": {
     "doc": "VeReMi NextGen (2026)",
-    "title": " NextGen",
+    "title": " NextGen (v3)",
     "content": " ",
-    "url": "/veremi-nextgen#-nextgen",
+    "url": "/veremi-nextgen#-nextgen-v3",
     
-    "relUrl": "/veremi-nextgen#-nextgen"
-  },"10": {
+    "relUrl": "/veremi-nextgen#-nextgen-v3"
+  },"9": {
     "doc": "VeReMi NextGen (2026)",
     "title": "Cite This Work",
     "content": "@inproceedings{Hermann2026vereminextgen, author = {Hermann, Artur and Remmers, Jan Niklas and Eisermann, Dennis and Erb, Benjamin and Kargl, Frank}, booktitle = {2026 {IEEE} {Vehicular} {Networking} {Conference} ({VNC})}, date = {2026-06}, location = {Montreal, Canada}, title = {VeReMi {NextGen}: A {Dataset} for {Evaluating} {Misbehavior} {Detection} {Systems} in {VANETs}}, } . ",
     "url": "/veremi-nextgen#cite-this-work",
     
     "relUrl": "/veremi-nextgen#cite-this-work"
+  },"10": {
+    "doc": "VeReMi NextGen (2026)",
+    "title": "Download",
+    "content": ". | Code: GitHub | Dataset: Zenodo | . ",
+    "url": "/veremi-nextgen#download",
+    
+    "relUrl": "/veremi-nextgen#download"
   },"11": {
     "doc": "VeReMi NextGen (2026)",
     "title": "VeReMi NextGen (2026)",
@@ -84,12 +84,54 @@
     "relUrl": "/veremi-nextgen"
   },"12": {
     "doc": "VeReMi (2018)",
-    "title": "",
-    "content": "@inproceedings{van2018veremi, title={VeReMi: A Dataset for Comparable Evaluation of Misbehavior Detection in VANETs}, author={Van Der Heijden, Rens W and Lukaseder, Thomas and Kargl, Frank}, booktitle={International conference on security and privacy in communication systems}, pages={318--337}, year={2018}, organization={Springer} } . ",
-    "url": "/veremi",
+    "title": "  Dataset (v1)",
+    "content": "This is the first, initial version of the Vehicular Reference Misbehavior (VeReMi) dataset, a dataset for the evaluation of misbehavior detection mechanisms for VANETs. This dataset consists of message logs of on-board units, including a labelled ground truth, generated from a simulation environment. The dataset includes malicious messages intended to trigger incorrect application behavior, which is what misbehavior detection mechanisms aim to prevent. The initial dataset contains a number of simple attacks: the idea of this dataset release is not just to provide a baseline for the comparison of detection mechanisms, but also to serve as a starting point for more complex attacks. VeReMi is part of a recently accepted paper, submitted to the SecureComm conference. ",
+    "url": "/veremi#--dataset-v1",
     
-    "relUrl": "/veremi"
+    "relUrl": "/veremi#--dataset-v1"
   },"13": {
+    "doc": "VeReMi (2018)",
+    "title": "Cite This Work",
+    "content": "@inproceedings{van2018veremi, title={VeReMi: A Dataset for Comparable Evaluation of Misbehavior Detection in VANETs}, author={Van Der Heijden, Rens W and Lukaseder, Thomas and Kargl, Frank}, booktitle={International conference on security and privacy in communication systems}, pages={318--337}, year={2018}, organization={Springer} } . ",
+    "url": "/veremi#cite-this-work",
+    
+    "relUrl": "/veremi#cite-this-work"
+  },"14": {
+    "doc": "VeReMi (2018)",
+    "title": "Overview",
+    "content": "VeReMi is a simulated dataset, generated using LuST (Version 2) and VEINS (with modifications, based on Version 4.6). It consists of message logs per vehicle, containing both GPS data (labeled as type=2) about the local vehicle and BSM messages (labeled as type=3) received from other vehicles though DSRC. It has two primary purposes: it serves as a baseline to assess how misbehavior detection mechanisms operate on a city scale, and it saves you a lot of computational power typically required to run VEINS sufficiently often. VeReMi consists of three different density levels, five different attacks, and three different attacker densities. The code and configuration files that are the input of VEINS are available in a separate repository on the securecomm2018 branch. We also provide a popper-like repository that contains all the scripts we used to generate the dataset (see below). File structure . Each simulation log contains a ground truth file for every message and a set of message logs for every vehicle that received messages. The file name of a message log identifies the receiver by vehicle number and OMNeT++ module number, e.g., JSONlog-0-7-A0.json refers to the 0th vehicle with OMNeT++ module ID 7. The latter is the number also used to identify the sender as such in any reception log and the ground truth file. A0 refers to the fact that this vehicle is not an attacker (refer to the paper for a discussion of the attacks, or check out the source code below). ",
+    "url": "/veremi#overview",
+    
+    "relUrl": "/veremi#overview"
+  },"15": {
+    "doc": "VeReMi (2018)",
+    "title": "Accessing &amp; Using VeReMi",
+    "content": "To use VeReMi, or parts of the dataset, clone the corresponding repository, which is also on github. The repository uses git-lfs to store the actual message logs, because their size exceeds the amounts suitable for git. Due to Github storage limitations, we’re currently hosting the dataset as a release here. We’re thinking about a self-hosted repository with git-lfs to enable contributions again, but for now please download the dataset from the public release and write Rens if you wish to contribute. ",
+    "url": "/veremi#accessing--using-veremi",
+    
+    "relUrl": "/veremi#accessing--using-veremi"
+  },"16": {
+    "doc": "VeReMi (2018)",
+    "title": "Reproducing the Dataset",
+    "content": "The repository with scripts that we used to generate the data (as well as all the other processing tasks done for the first paper) can be found on github. We are currently working on making those scripts more portable – right now, a lot of deployment happens manually, and this is only documented in notes in the scripts. Please contact us if you have issues with these scripts. ",
+    "url": "/veremi#reproducing-the-dataset",
+    
+    "relUrl": "/veremi#reproducing-the-dataset"
+  },"17": {
+    "doc": "VeReMi (2018)",
+    "title": "Extending the Dataset",
+    "content": "There are many ways to extend the dataset: for example, running on a different subset of LuST, adding new attacks, or changing simulation parameters. To add your results to this repository, please create a pull request on the data repository through the following steps: . | publish your code (preferably as a fork of VeReMi’s fork of veins) | fork VeReMi | clone VeReMi locally | create a folder in the repository and update the VeReMi index.md file | add your results into the new folder and use git LFS to add the message outputs | push your results to your fork on github | create a pull request in the github interface | . Please note that at this stage we will only accept pull requests with public source code. If you’d like to contribute real-world data, please contact us directly. ",
+    "url": "/veremi#extending-the-dataset",
+    
+    "relUrl": "/veremi#extending-the-dataset"
+  },"18": {
+    "doc": "VeReMi (2018)",
+    "title": "Acknowledgement",
+    "content": "The dataset was primarily put together by Rens van der Heijden at the Institute of Distributed Systems, part of Ulm University. Please contact Rens if you have any questions, comments or criticism. This work was supported in part by the Baden-Württemberg Stiftung gGmbH Stuttgart as part of the project IKT-05 AutoDetect of its IT security research programme. Simulations for this work were performed on the computational resource bwUniCluster funded by the Ministry of Science, Research and the Arts Baden-Württemberg and the Universities of the State of Baden-Württemberg, Germany, within the framework program bwHPC. ",
+    "url": "/veremi#acknowledgement",
+    
+    "relUrl": "/veremi#acknowledgement"
+  },"19": {
     "doc": "VeReMi (2018)",
     "title": "VeReMi (2018)",
     "content": " ",

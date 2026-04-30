@@ -5,12 +5,12 @@ See [VeReMi-dataset.github.io](https://veremi-dataset.github.io).
 ## Making Changes to the Website
 
 This site is using Jekyll to generate webpages from Markdown and then gh-pages to deploy them. 
-However, we are not using automatic deployment tools (old gh-pages or Actions) from GitHub. 
+However, we are not using automatic deployment tools (old gh-pages or Actions) from GitHub, but deploy with the npm `gh-pages` module. 
 
 ### Requirements
 
- * jekyll, theme and dependencies for building the page (see Gemfile)
- * npm module `gh-pages` for deploying (see package.json)
+ * jekyll, theme and dependencies for building the page (see `Gemfile`)
+ * npm module `gh-pages` for deploying (see `package.json`)
 
 
  ### Submitting and Deploying Changes
