@@ -1,0 +1,24 @@
+{
+  "name": "veremi-dataset.github.io",
+  "version": "1.0.0",
+  "description": "See [VeReMi-dataset.github.io](https://veremi-dataset.github.io).",
+  "homepage": "https://github.com/VeReMi-dataset/VeReMi-dataset.github.io#readme",
+  "bugs": {
+    "url": "https://github.com/VeReMi-dataset/VeReMi-dataset.github.io/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VeReMi-dataset/VeReMi-dataset.github.io.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d _site"
+  },
+  "dependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
