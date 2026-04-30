@@ -1,6 +1,7 @@
 ---
 layout: default
 title: VeReMi (2018)
+permalink: /veremi
 nav_order: 400
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: VeReMi Extension (2020)
+permalink: /veremi-extension
 nav_order: 300
 ---
 

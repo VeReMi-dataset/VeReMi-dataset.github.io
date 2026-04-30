@@ -2,6 +2,7 @@
 layout: default
 nav_order: 9999
 title: Imprint
+permalink: /imprint
 ---
 
 # Imprint (Information in accordance with § 5 of the German Telemedia Act, TMG)

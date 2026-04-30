@@ -2,6 +2,7 @@
 layout: default
 title: VeReMi NextGen (2026)
 nav_order: 200
+permalink: /veremi-nextgen
 ---
 
 # ![VeReMi](/assets/veremi_logo.svg) *NextGen*
