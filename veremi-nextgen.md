@@ -5,7 +5,7 @@ nav_order: 200
 permalink: /veremi-nextgen
 ---
 
-# ![VeReMi](/assets/veremi_logo.svg) *NextGen*
+# ![VeReMi](/assets/veremi_logo.svg) *NextGen* (v3)
 
 ## Cite This Work
 
@@ -18,3 +18,9 @@ permalink: /veremi-nextgen
 	title = {VeReMi {NextGen}: A {Dataset} for {Evaluating} {Misbehavior} {Detection} {Systems} in {VANETs}},
 }
 ```
+
+## Download
+
+ * [Code: GitHub](https://github.com/VeReMi-dataset/VeReMi-NextGen)
+ * [Dataset: Zenodo](https://zenodo.org/records/19665762)
+ 

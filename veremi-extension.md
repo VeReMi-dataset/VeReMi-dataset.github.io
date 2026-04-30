@@ -5,7 +5,7 @@ permalink: /veremi-extension
 nav_order: 300
 ---
 
-# ![VeReMi](/assets/veremi_logo.svg) *Extension*
+# ![VeReMi](/assets/veremi_logo.svg) *Extension* (v2)
 
 ## Cite This Work
 
